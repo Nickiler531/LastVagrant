@@ -1,0 +1,1 @@
+{"virtualbox":{"/tmp/mastercfg/":{"guestpath":"/tmp/mastercfg","hostpath":"/home/invitado/LastVagrant/mastercfg","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/invitado/LastVagrant","disabled":false,"__vagrantfile":true}}}
